@@ -1,2 +1,2 @@
 # main
-my first app
+my first app using pygame 
